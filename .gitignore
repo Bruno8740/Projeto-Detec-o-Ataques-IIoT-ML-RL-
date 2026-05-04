@@ -1,0 +1,13 @@
+# ambientes virtuais
+venv/
+.venv/
+
+# cache Python
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# datasets grandes
+*.parquet
